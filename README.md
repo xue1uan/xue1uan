@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Xueyuan Cao. Welcome to my personal github account! 🥳 If you have interest, you can also check my other account: 1uan-yuan
+This is Xueyuan Cao. Welcome to my personal github account! 🥳 If you have interest, you can also check my other account at https://github.com/1uan-yuan
 
 <!--
 **xue1uan/xue1uan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
